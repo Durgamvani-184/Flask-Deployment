@@ -104,8 +104,7 @@ http://127.0.0.1:5000/
 
 ## 📸 Application Preview
 
-(https://github.com/Emanojroshan/iris-deployment/blob/568c4e7fec14fd520adf0a1771410d99a995616d/screenshots/output1.png)
-
+(https://github.com/Durgamvani-184/Flask-Deployment/blob/df130fa55a869f76a4ecee963df6d0b095c469b7/screenshots/output1.png)
 ---
 
 ## 🔒 Input Handling
