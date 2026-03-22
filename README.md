@@ -16,12 +16,12 @@ Ready for cloud deployment
 Algorithm Used: Logistic Regression (update if different)
 Dataset: Iris Dataset
 Accuracy: ~97% (update with your actual accuracy)
-📊 Input Features:
+Input Features:
 Sepal Length
 Sepal Width
 Petal Length
 Petal Width
-🌸 Output:
+Output:
 Setosa
 Versicolor
 Virginica
@@ -31,22 +31,31 @@ Machine Learning: Scikit-learn
 Frontend: HTML, CSS
 Deployment: Render / Heroku / Railway
 📂 Project Structure
-Flask-Deployment/
-├── templates/
-│   └── result.html
-├── screenshots/
-├── app.py
-├── iris_model.pkl
-├── requirements.txt
-├── Procfile
-└── README.md
+
+Flask-Deployment folder contains:
+
+templates folder (result.html)
+screenshots folder
+app.py
+iris_model.pkl
+requirements.txt
+Procfile
+README.md
 ▶️ Run Locally
+
+Step 1: Clone repository
 git clone https://github.com/Durgamvani-184/Flask-Deployment.git
+
+Step 2: Move into folder
 cd Flask-Deployment
+
+Step 3: Install dependencies
 pip install -r requirements.txt
+
+Step 4: Run application
 python app.py
 
-Open your browser:
+Open browser and go to:
 http://127.0.0.1:5000/
 
 📸 Screenshots
@@ -62,13 +71,13 @@ This project can be deployed on:
 Render
 Heroku
 Railway
+
 Steps:
+
 Push code to GitHub
 Connect repo to Render
-Build command:
-pip install -r requirements.txt
-Start command:
-python app.py
+Add build command: pip install -r requirements.txt
+Add start command: python app.py
 Deploy
 🔮 Future Improvements
 Add better UI using Bootstrap
