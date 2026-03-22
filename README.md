@@ -128,8 +128,8 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author
 
-**Manoj Roshan**
-🔗 GitHub: https://github.com/Emanojroshan
+**Durgam Vani**
+🔗 GitHub: https://github.com/Durgamvani-184
 
 ---
 ## 📄 License
